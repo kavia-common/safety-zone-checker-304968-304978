@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/safety-zone-checker-304968-304978/location_safety_frontend"
+}
